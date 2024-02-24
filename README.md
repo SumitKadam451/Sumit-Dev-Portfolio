@@ -20,6 +20,10 @@ Welcome to the digital showcase of Sumit Kadam, a frontend developer with a pass
 - Figma
 - Canva
 
+## Demo
+
+Check out the live demo of [Sumit-Dev-portfolio](https://sumit-dev-portfolio.pages.dev/)
+
 ## Screenshots
 
 ![App Screenshot](https://github.com/SumitKadam451/Sumit-Dev-Portfolio/blob/main/home-page.png)
