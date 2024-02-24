@@ -10,6 +10,7 @@ Welcome to the digital showcase of Sumit Kadam, a frontend developer with a pass
 
 - button functionality
 - Dark and Light Mode
+- Custom cursor with dark/light mode changing effect
 
 ## Technologies Used
 
