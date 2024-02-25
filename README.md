@@ -26,9 +26,9 @@ Check out the live demo of [Sumit-Dev-portfolio](https://sumit-dev-portfolio.pag
 
 ## Screenshots
 
-![App Screenshot](https://github.com/SumitKadam451/Sumit-Dev-Portfolio/blob/main/home-page.png)
+![App Screenshot](https://github.com/SumitKadam451/Sumit-Dev-Portfolio/blob/main/main-light.png)
 
-![App Screenshot](https://github.com/SumitKadam451/Sumit-Dev-Portfolio/blob/main/home-page2.png)
+![App Screenshot](https://github.com/SumitKadam451/Sumit-Dev-Portfolio/blob/main/main-dark.png)
 
 
 ## 🚀 About Me
