@@ -603,8 +603,7 @@ footer p {
 
 
 /* Custom cursor */
-.cursor {
-  cursor: none; 
+.cursor { 
   position: absolute;
   width: 50px;
   height: 50px;
@@ -614,6 +613,7 @@ footer p {
   z-index: 9999; /* Ensure the cursor is above other elements */
   transition: transform 0.2s ease;
   transform: translate(-50%, -50%);
+  cursor: none;
 }
 
 
